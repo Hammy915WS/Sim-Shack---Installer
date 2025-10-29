@@ -1,0 +1,7 @@
+Sim Shack Software License Agreement
+© 2025 Mike Vadnais. All rights reserved.
+
+You are granted a non-exclusive license to install and use this software for personal, non-commercial purposes.
+You may not modify, reverse-engineer, redistribute, or resell this software without written permission.
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
