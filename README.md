@@ -4,6 +4,9 @@ Sim Shack © 2025 Mike Vadnais. All rights reserved. Distributed for personal us
 SimShack is a **flight simulation companion app** for Microsoft Flight Simulator 2024, 2020 or xPlane.  
 It provides quick access to airport data using the **OurAirports** database and supports real-time lookup for ICAO codes, regions, and countries.
 
+## 📦 Download
+[Download SimShack for Windows](https://github.com/Hammy915WS/Sim-Shack---Installer/releases/download/v1.0.0/SimShack.msi)
+
 NOTE: Due to this application being utilized for a group of hobbyists, I did not get this application
 Certificate of Authority Certified as the costs to do so are something I cannot afford. If you get a
 Microsoft Defender SmartScreen, select More Info and "Run anyway". There is nothing destructive
