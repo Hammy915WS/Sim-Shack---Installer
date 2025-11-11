@@ -28,4 +28,4 @@ There is also a Calculate / Convert section for simple flight planning and conve
 
 View the Sim Shack User Guide to get a better understanding of what this application provides.
 
-Contact me if you have any questions. Contact: highpapiair@gmail.com
+Contact me if you have any questions. Contact: support@highpapiair.net
